@@ -34,7 +34,7 @@ docker run -v liteseed:/data edge balance
 # Burada tırnakların içersinde bir github veya twitter bağlantını koy.
 docker run -v liteseed:/data edge stake -u "https://ruesandora.com"
 
-# bu seger bu komutu girdiğinizde token elinizde kalmayacak ve stake kısmı Yes olacaktır.
+# bu sefer bu komutu girdiğinizde token elinizde kalmayacak ve stake kısmı Yes olacaktır.
 docker run -v liteseed:/data edge balance
 
 # screen içersine girip durdurup tekrar başlatalım.
